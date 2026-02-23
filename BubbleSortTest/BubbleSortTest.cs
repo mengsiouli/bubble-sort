@@ -1,5 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using BubbleSort;
+﻿using BubbleSort.Logic;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace BubbleSortTest
 {

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace BubbleSort
+namespace BubbleSort.Logic
 {
 	public partial class SortInputChecker
 	{

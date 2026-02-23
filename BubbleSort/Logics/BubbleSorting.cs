@@ -1,4 +1,4 @@
-﻿namespace BubbleSort
+﻿namespace BubbleSort.Logic
 {
 	public partial class BubbleSorting
 	{
